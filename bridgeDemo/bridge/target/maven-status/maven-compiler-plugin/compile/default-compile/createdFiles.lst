@@ -1,0 +1,7 @@
+edu\umich\balajima\bridgepattern\App.class
+edu\umich\balajima\bridgepattern\switches\AdvancedSwitch.class
+edu\umich\balajima\bridgepattern\switches\BasicSwitch.class
+edu\umich\balajima\bridgepattern\appliances\Appliance.class
+edu\umich\balajima\bridgepattern\appliances\Oven.class
+edu\umich\balajima\bridgepattern\appliances\Fridge.class
+edu\umich\balajima\bridgepattern\switches\Switch.class
